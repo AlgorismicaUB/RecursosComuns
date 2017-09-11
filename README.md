@@ -6,7 +6,7 @@ En aquest repositori hi haurà alguns notebooks amb recursos molt bàsics de Pyt
 ## Continguts
 
 * [L'**entrada** de dades: input i eval](./input.ipynb)
-* [La **sortida** de dades: print i print(f]](./output.ipynb)
+* [La **sortida** de dades: print i print(f  )](./output.ipynb)
 * [Introducció als **operadors booleans**](./booleans.ipynb)
 * [Les **col.leccions** bàsiques: llistes, tuples i diccionaris](./colleccions.ipynb)
 * [Les **cadenes de caràcters**, funcions bàsiques](./strings.ipynb)
