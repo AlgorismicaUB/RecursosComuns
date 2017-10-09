@@ -10,9 +10,8 @@ En aquest repositori hi haurà alguns notebooks amb recursos molt bàsics de Pyt
 * [Introducció als **operadors booleans**](./booleans.ipynb)
 * [Les **col.leccions** bàsiques: llistes, tuples i diccionaris](./colleccions.ipynb)
 * [Les **cadenes de caràcters**, funcions bàsiques](./strings.ipynb)
+* [Els **caràcters**, codificació](./caracters.ipynb)
 * [Les **estructures de control**: if/else, for i while](./control.ipynb)
 * [La crida de funcions amb **paràmetres**](./parametres.ipynb)
 * [Les bases de la **recursió**, cas base i crida recursiva](./recursio.ipynb)
 * [**Aritmètica modular**: nombres congruents i operacions bàsiques](./modular.ipynb)
-
-
